@@ -14,9 +14,8 @@
 # (agregar, quitar o cambiar elementos); inmutable significa que no se puede.
 # Los diccionarios asocian cada clave con un valor y permiten buscar la
 # información directamente por la clave, sin recorrer todos los elementos.
-# Este documento cubre 6 problemas: cada uno tiene descripción, entradas,
-# salidas, validaciones y 3 casos de prueba, y usa listas, tuplas y
-# diccionarios en contextos prácticos como catálogos, registros y estadísticas.
+# Este documento cubre 2 problemas: cada uno tiene descripción, entradas,
+# salidas, validaciones y 3 casos de prueba, usando listas y tuplas.
 
 
 # ==================================================
